@@ -9,3 +9,4 @@
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&labelColor=black&logo=facebook" alt="FB Badge"/>
         </a>
       </div>
+### :woman_technologist: About Me :  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
