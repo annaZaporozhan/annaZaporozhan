@@ -4,8 +4,6 @@
       </div>
 
 <div id="badges">
-        
-
         <a href="https://www.facebook.com/profile.php?id=100009299691870">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&labelColor=black&logo=facebook" alt="FB Badge"/>
         </a>
